@@ -1,8 +1,10 @@
-# Hey! My name is Austin Stancil
-
-- 👀 I’m interested in ... Video games, Movies, Food, Tech 
-- 🌱 I’m currently learning ... Coding Via Bootcamp
-- 💞️ I’m looking to collaborate on ... Web development, Web applications
+<pre>
+const austinStancil = {
+  pronouns: "He" | "Him",
+  interests: ["Video games", "Movies", "Food", "Tech"],
+  currentlyLearning: "Coding Via Bootcamp",
+  lookingToCollaborateOn: ["Web development", "Web applications"]
+}</pre>
 
 # GitHub Stats
 [![AustinS86 GitHub stats](https://github-readme-stats.vercel.app/api?username=AustinS86&show_icons=true&theme=tokyonight)](https://github.com/AustinS86/github-readme-stats)
