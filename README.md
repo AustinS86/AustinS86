@@ -12,7 +12,7 @@ const austinStancil = {
 
 # Contact: 
 <div>
-<a href="https://austins86.github.io/Personal-Portfolio/" rel="nofollow">
+<a href="https://austins86.github.io/react-portfolio/" rel="nofollow">
     <img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Website Icon" style="max-width: 100%;">
  </a>
  <a href="https://www.linkedin.com/in/austins86/" rel="nofollow">
